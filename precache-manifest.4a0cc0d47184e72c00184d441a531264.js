@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f951fea9f88b9402e8654f6cb4c1bc9",
+    "revision": "5fc9a674bc3ba14235ed08d9077411db",
     "url": "/rpg-game-resume/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rpg-game-resume/static/js/2.448fd2d0.chunk.js"
   },
   {
-    "revision": "16aee934d6ce38c96472",
-    "url": "/rpg-game-resume/static/js/main.73ab7991.chunk.js"
+    "revision": "d76cdcc0e7bc8d6dd01f",
+    "url": "/rpg-game-resume/static/js/main.cc9d62cc.chunk.js"
   },
   {
     "revision": "43c956b6d825fc7eb556",
