@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/rpg-game-resume/static/js/main.73ab7991.chunk.js",
+    "main.js.map": "/rpg-game-resume/static/js/main.73ab7991.chunk.js.map",
+    "runtime-main.js": "/rpg-game-resume/static/js/runtime-main.77085cea.js",
+    "runtime-main.js.map": "/rpg-game-resume/static/js/runtime-main.77085cea.js.map",
+    "static/js/2.448fd2d0.chunk.js": "/rpg-game-resume/static/js/2.448fd2d0.chunk.js",
+    "static/js/2.448fd2d0.chunk.js.map": "/rpg-game-resume/static/js/2.448fd2d0.chunk.js.map",
+    "index.html": "/rpg-game-resume/index.html",
+    "precache-manifest.663f687b383660961fa36413de963eb7.js": "/rpg-game-resume/precache-manifest.663f687b383660961fa36413de963eb7.js",
+    "service-worker.js": "/rpg-game-resume/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77085cea.js",
+    "static/js/2.448fd2d0.chunk.js",
+    "static/js/main.73ab7991.chunk.js"
+  ]
+}
